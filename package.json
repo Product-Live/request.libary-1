@@ -1,15 +1,15 @@
 {
-	"name": "request.libary",
-	"version": "1.0.12",
+	"name": "@product-live/request.libary",
+	"version": "1.0.13",
 	"description": "http request util",
 	"keywords": [],
-	"homepage": "https://github.com/anzerr/request.libary#readme",
+	"homepage": "https://github.com/Product-Live/request.libary-1#readme",
 	"bugs": {
-		"url": "https://github.com/anzerr/request.libary/issues"
+		"url": "https://github.com/Product-Live/request.libary-1/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:anzerr/request.libary.git"
+		"url": "git@github.com:Product-Live/request.libary-1.git"
 	},
 	"license": "MIT",
 	"author": "anzerr",
@@ -23,7 +23,7 @@
 		"extends": "eslint-config-basic"
 	},
 	"devDependencies": {
-		"eslint-config-basic": "git+https://git@github.com/anzerr/eslintrc.git"
+		"eslint-config-basic": "git+https://git@github.com/Product-Live/eslintrc.git"
 	},
 	"engines": {
 		"node": ">= 0.10.0"
